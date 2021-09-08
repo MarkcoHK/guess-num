@@ -8,6 +8,6 @@ while True:
 		print('終於猜對了！')
 		break
 	elif num > r:
-		print('比答案大')
+		print('太大拉')
 	elif num < r:
-		print('比答案小')
+		print('太細拉')
